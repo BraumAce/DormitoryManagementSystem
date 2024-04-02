@@ -40,13 +40,15 @@ sql 文件在 doc 中
 
 1. 后端文件夹 `Dormitory_backend` ：
 
-	修改 `application.properties` 文件![application.properties文件](D:\JavaWeb\大作业\DormitoryManagementSystem\doc\img\application.properties文件.png)
+	修改 `application.properties` 文件
+
+	![image](doc/img/application.properties文件.png)
 
 	将端口号和数据库地址、账号、密码改为自己的
 
 	启动 `SpringbootApplication `
 
-2. 前端文件夹 `Dormitory_frontend` ：
+3. 前端文件夹 `Dormitory_frontend` ：
 
 	进入文件夹目录后打开控制台cmd
 
