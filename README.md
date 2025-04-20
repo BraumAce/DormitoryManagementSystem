@@ -36,7 +36,7 @@ Windows 或者 Mac OS(不挑剔)
 
 ### 配置
 
-sql 文件在 doc 中
+0. 在 doc 中找到 `dormitory.sql`，执行，初始化数据库
 
 1. 后端文件夹 `Dormitory_backend` ：
 
